@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'iagovalcacer/ecommerce',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '7a37cdd022de1c383dff34b96e17689695575949',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'iagovalcacer/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '7a37cdd022de1c383dff34b96e17689695575949',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
