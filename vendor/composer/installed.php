@@ -3,7 +3,7 @@
         'name' => 'iagovalcacer/ecommerce',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '7a37cdd022de1c383dff34b96e17689695575949',
+        'reference' => 'af287a34fca74c9cc25aef7c7805f0a373db8113',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'iagovalcacer/ecommerce' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '7a37cdd022de1c383dff34b96e17689695575949',
+            'reference' => 'af287a34fca74c9cc25aef7c7805f0a373db8113',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
